@@ -16,5 +16,5 @@
 /nativemobile/builds/
 *.bak
 
-/money_input_demo.mpr.bak
-/money_input_demo.mpr.lock
+/*.bak
+/*.mpr.lock

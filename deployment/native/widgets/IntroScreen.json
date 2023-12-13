@@ -1,6 +1,0 @@
-{
-  "nativeDependencies": {
-    "@react-native-community/async-storage": "1.12.1",
-    "react-native-device-info": "8.7.1"
-  }
-}
