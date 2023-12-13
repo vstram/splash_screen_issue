@@ -1,0 +1,25 @@
+{
+    "version": "4.9.4",
+    "watched": [
+        {
+            "triggers": [],
+            "path": "D:/coe/projetos/splash_screen_issue/themesource"
+        },
+        {
+            "triggers": [],
+            "path": "D:/coe/projetos/splash_screen_issue/deployment/native"
+        },
+        {
+            "triggers": [],
+            "path": "D:/coe/projetos/splash_screen_issue/javascriptsource"
+        },
+        {
+            "triggers": [],
+            "path": "D:/coe/projetos/splash_screen_issue/theme"
+        },
+        {
+            "triggers": [],
+            "path": "D:/programas/Mendix/9.24.12.20495/modeler/tools/node/node_modules"
+        }
+    ]
+}
